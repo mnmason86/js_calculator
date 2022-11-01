@@ -21,4 +21,4 @@ TODO:
 
 **Screenshots**
 
-<img src="screenshots/calculator_1.png" alt="ss1" height="200">
+<img src="screenshots/calculator_1.png" alt="ss1" height="300">
