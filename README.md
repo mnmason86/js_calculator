@@ -18,3 +18,7 @@ TODO:
 **Set up CSS file**
 - Link to HTML
 - Align and style buttons and display
+
+**Screenshots**
+
+<img src="screenshots/calculator_1.png" alt="ss1" height="200">
