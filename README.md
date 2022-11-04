@@ -19,6 +19,23 @@ TODO:
 - Link to HTML
 - Align and style buttons and display
 
-**Screenshots**
+**Screenshot**
 
 <img src="screenshots/calculator_1.png" alt="ss1" height="300">
+
+# 11/04/2022
+
+TODO:
+
+**Add JavaScript for functionality**
+- Access elements from the DOM
+- Map event listeners to buttons with switch case
+
+**Screenshot**
+
+<img src="screenshots/calculator_2.png" alt="ss2" height="300">
+
+# Attribution
+
+[Create a simple calculator using HTML, CSS, and JavaScript](https://dev.to/javascriptacademy/create-a-simple-calculator-using-html-css-and-javascript-4o7k)
+*by: Adam Nagy*
